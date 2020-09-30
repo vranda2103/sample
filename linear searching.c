@@ -11,7 +11,7 @@ int main()
     }
     printf("\n Enter element to search : ");
     scanf("%d",&e);
-    for(i=0;i<n;i+)
+    for(i=0;i<n;i++)
     {
         if(e==a[i])
         {
