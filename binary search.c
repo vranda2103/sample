@@ -36,7 +36,7 @@ int main()
     scanf("%d",&e);
     while(l<=h)
     {
-        if(e=a[m])
+        if(e==a[m])
         {
             flag=1;
             break;
