@@ -7,7 +7,7 @@ int main()
     printf("\n Enter array : ");
     for(i=0;i<n;i++)
     {
-        scanf("%d",a[i]);
+        scanf("%d",&a[i]);
     }
     int j,temp;
     //bubble sort code.
