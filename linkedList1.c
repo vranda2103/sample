@@ -39,9 +39,9 @@ int main()
 
     //linked list of all non-zero elements.
     //find non-zero element.
-    for(j=0;j<row;j++)
+    for(i=0;i<row;i++)
     {
-        for(i=0;i<col;i++)
+        for(j=0;j<col;j++)
         {
             if(a[i][j]!=0)
             {
